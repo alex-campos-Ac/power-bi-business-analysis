@@ -1,0 +1,49 @@
+﻿Nome_Filial,Mês,Faturamento Total,Faturamento Mês Anterior,Status Faturamento
+Loja Centro,janeiro,"R$ 417532,45","R$ 542508,19",Houve Queda
+Loja Centro,fevereiro,"R$ 372303,86","R$ 417532,45",Houve Queda
+Loja Centro,março,"R$ 467357,43","R$ 372303,86",Não houve Queda
+Loja Centro,abril,"R$ 538222,57","R$ 467357,43",Não houve Queda
+Loja Centro,maio,"R$ 529953,7","R$ 538222,57",Houve Queda
+Loja Centro,junho,"R$ 464995,12","R$ 529953,7",Houve Queda
+Loja Centro,julho,"R$ 496378,49","R$ 464995,12",Não houve Queda
+Loja Centro,agosto,"R$ 304749,9","R$ 496378,49",Houve Queda
+Loja Centro,setembro,"R$ 284885,34","R$ 304749,9",Houve Queda
+Loja Centro,outubro,"R$ 393985,44","R$ 284885,34",Não houve Queda
+Loja Centro,novembro,"R$ 438915,12","R$ 393985,44",Não houve Queda
+Loja Centro,dezembro,"R$ 542508,19","R$ 438915,12",Não houve Queda
+Loja Leste,janeiro,"R$ 301943,53","R$ 403261,16",Houve Queda
+Loja Leste,fevereiro,"R$ 257325,12","R$ 301943,53",Houve Queda
+Loja Leste,março,"R$ 357405,08","R$ 257325,12",Não houve Queda
+Loja Leste,abril,"R$ 333572,95","R$ 357405,08",Houve Queda
+Loja Leste,maio,"R$ 354916,32","R$ 333572,95",Não houve Queda
+Loja Leste,junho,"R$ 380072,08","R$ 354916,32",Não houve Queda
+Loja Leste,julho,"R$ 356851,61","R$ 380072,08",Houve Queda
+Loja Leste,agosto,"R$ 219035,24","R$ 356851,61",Houve Queda
+Loja Leste,setembro,"R$ 275018,65","R$ 219035,24",Não houve Queda
+Loja Leste,outubro,"R$ 291338,74","R$ 275018,65",Não houve Queda
+Loja Leste,novembro,"R$ 339091,98","R$ 291338,74",Não houve Queda
+Loja Leste,dezembro,"R$ 403261,16","R$ 339091,98",Não houve Queda
+Loja Norte,janeiro,"R$ 315228,65","R$ 431450,32",Houve Queda
+Loja Norte,fevereiro,"R$ 325629,49","R$ 315228,65",Não houve Queda
+Loja Norte,março,"R$ 398189,56","R$ 325629,49",Não houve Queda
+Loja Norte,abril,"R$ 437545,37","R$ 398189,56",Não houve Queda
+Loja Norte,maio,"R$ 467969,64","R$ 437545,37",Não houve Queda
+Loja Norte,junho,"R$ 355228,7","R$ 467969,64",Houve Queda
+Loja Norte,julho,"R$ 413854,13","R$ 355228,7",Não houve Queda
+Loja Norte,agosto,"R$ 228554,45","R$ 413854,13",Houve Queda
+Loja Norte,setembro,"R$ 271737,37","R$ 228554,45",Não houve Queda
+Loja Norte,outubro,"R$ 306028,29","R$ 271737,37",Não houve Queda
+Loja Norte,novembro,"R$ 359301,46","R$ 306028,29",Não houve Queda
+Loja Norte,dezembro,"R$ 431450,32","R$ 359301,46",Não houve Queda
+Loja Sul,janeiro,"R$ 281282,75","R$ 387388,12",Houve Queda
+Loja Sul,fevereiro,"R$ 275440,66","R$ 281282,75",Houve Queda
+Loja Sul,março,"R$ 310035,97","R$ 275440,66",Não houve Queda
+Loja Sul,abril,"R$ 385641,24","R$ 310035,97",Não houve Queda
+Loja Sul,maio,"R$ 422523,85","R$ 385641,24",Não houve Queda
+Loja Sul,junho,"R$ 307580,6","R$ 422523,85",Houve Queda
+Loja Sul,julho,"R$ 321916,12","R$ 307580,6",Não houve Queda
+Loja Sul,agosto,"R$ 248781,46","R$ 321916,12",Houve Queda
+Loja Sul,setembro,"R$ 204625,92","R$ 248781,46",Houve Queda
+Loja Sul,outubro,"R$ 246715,35","R$ 204625,92",Não houve Queda
+Loja Sul,novembro,"R$ 346763,98","R$ 246715,35",Não houve Queda
+Loja Sul,dezembro,"R$ 387388,12","R$ 346763,98",Não houve Queda
