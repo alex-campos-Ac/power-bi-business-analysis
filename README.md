@@ -37,9 +37,9 @@ O projeto cobre modelagem de dados, medidas DAX aplicando regras reais de negóc
 
 ## 📂 Estrutura do Repositório
 
-- `dados/`: bases originais (fVendas, dVendedor, dFilial, dCanal, dCalendario).
+- `dataset/`: bases originais (fVendas, dVendedor, dFilial, dCanal, dCalendario).
 - `dashboard/`: arquivo `.pbix` e imagem do dashboard final.
-- `analise.md`: respostas às perguntas de negócio do case, em texto.
+- `readme.md`: respostas às perguntas de negócio do case, em texto.
 
 ## ⚠️ Nota Metodológica
 
